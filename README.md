@@ -6,9 +6,9 @@ Pour démarrer des projets rapidement.
 
 ## Objectif
 
-Créer plusieurs ou un modèle de projet backend pour démarrer rapidement des projets avec nodeJs.
+Créer un modèle de projet backend pour démarrer rapidement des projets avec nodeJs.
 
-## Mettre route le modele
+## Mettre en route le modèle
 
 cloner le projet sur votre machine
 
