@@ -16,7 +16,7 @@ cloner le projet sur votre machine
 git clone https://github.com/bacardevelopper/modele_backend.git
 ```
 
-se rendre dans le dossier /src
+se rendre dans le dossier /src/backend_arch
 
 
 
