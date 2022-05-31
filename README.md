@@ -1,7 +1,5 @@
 # MODELE BACKEND
 
-## Intérêt
-
 Pour démarrer des projets rapidement.
 
 ## Objectif
