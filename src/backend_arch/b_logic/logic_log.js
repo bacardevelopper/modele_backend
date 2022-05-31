@@ -1,4 +1,4 @@
-const { print } = require("../fct_utiles_et_test/console_log");
+const { print } = require("../useful_functions/console_log");
 
 exports.login_userControleur = (req, res, next) => {
   print("login path test");
