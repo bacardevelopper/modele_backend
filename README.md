@@ -31,3 +31,6 @@ npm start
 ```
 
 ## Configuration test
+Se rendre dans le dossier __tests__ pour voir les fonctions de test.
+### config test endpoint
+
