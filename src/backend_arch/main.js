@@ -26,8 +26,8 @@ main_express.use(express.json());
 
 // routes
 const routes = {
-  logRoutes : require("./api_routes/log_routes"),
-  businessRoutes :require("./api_routes/business_routes"),
+  logRoutes: require("./api_routes/log_routes"),
+  businessRoutes: require("./api_routes/business_routes"),
 };
 
 // global middleware
@@ -36,7 +36,7 @@ main_express.use("/crud", routes.businessRoutes);
 
 // run
 main_express.listen(PORT, () => {
-  print('############################################');
+  print("############################################");
   print(`# server running at: http://localhost:${PORT} #`);
-  print('############################################');
+  print("############################################");
 });

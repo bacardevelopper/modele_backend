@@ -4,16 +4,20 @@
   "description": "- express\r - bcrypt\r - jsonwebtoken\r - nodemon",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node ./__tests__/functions_tests.js",
     "start": "nodemon main.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "bcrypt": "^5.0.1",
     "express": "^4.17.3",
     "helmet": "^5.0.2",
     "jsonwebtoken": "^8.5.1",
     "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "supertest": "^6.2.3"
   }
 }
