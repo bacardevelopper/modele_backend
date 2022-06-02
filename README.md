@@ -30,3 +30,4 @@ démarrer le projet
 npm start
 ```
 
+## Configuration test
